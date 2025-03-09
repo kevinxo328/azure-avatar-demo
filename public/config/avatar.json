@@ -1,0 +1,12 @@
+[
+  {
+    "displayName": "Lisa",
+    "image": "/avatars/lisa-casual-sitting-transparent-bg.webp",
+    "avatarConfig": {
+      "customized": false,
+      "talkingAvatarCharacter": "Lisa",
+      "talkingAvatarStyle": "casual-sitting",
+      "voice": "en-US-JennyMultilingualNeural"
+    }
+  }
+]
