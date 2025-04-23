@@ -2,6 +2,8 @@
 
 This project demonstrates the integration of Azure Avatar and Azure OpenAI services. Follow the instructions below to set up and run the project.
 
+![](./public/screenshot.jpeg)
+
 ## Prerequisites
 
 - Node.js (version 18 or higher)
